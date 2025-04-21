@@ -1,0 +1,15 @@
+.nav{
+    background-color: #264653;
+    height: 50px;
+    width: 100vw;
+    display: FLEX;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 23px;
+    font-weight: 530;
+    font-family: sans-serif;
+    color: #E0FBFC;
+}
+.nav div{
+    cursor: pointer;
+}
