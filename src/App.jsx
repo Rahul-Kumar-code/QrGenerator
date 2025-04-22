@@ -2,6 +2,7 @@ import Navbar from './components/Navbar';
 import './App.css'
 import Input from './components/Input';
 import Footer from './components/Footer';
+import Scanner from './components/Scanner'
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { useState } from 'react';
 
