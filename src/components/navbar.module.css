@@ -2,14 +2,19 @@
     background-color: #264653;
     height: 50px;
     width: 100vw;
-    display: FLEX;
+    display: Flex;
     justify-content: space-around;
     align-items: center;
-    font-size: 23px;
+    font-size: 19px;
     font-weight: 530;
     font-family: sans-serif;
     color: #E0FBFC;
 }
 .nav div{
     cursor: pointer;
+}
+@media (max-width: 491px) {
+    .nav{
+        font-size: 16px;
+    }
 }
